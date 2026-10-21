@@ -9,15 +9,12 @@ This project demonstrates basic Python programming concepts such as loops, varia
 ## ✨ Features
 
 - Generates the Fibonacci series for a specified number of terms.
-- Uses simple and readable Python code.
 - Beginner-friendly and easy to understand.
 - Demonstrates basic programming logic and iteration.
-- Runs locally without any external libraries.
 
 ## 🛠️ Requirements
 
 - Python 3.x
-- A code editor or terminal to run the program.
 
 ## 📥 Installation
 
@@ -34,8 +31,6 @@ This project demonstrates basic Python programming concepts such as loops, varia
    ```
 
 3. Ensure Python 3 is installed on your system.
-
-No additional packages are required.
 
 ## ▶️ Usage
 
@@ -63,22 +58,6 @@ Fibonacci Series:
 0 1 1 2 3 5 8 13 21 34
 ```
 
-*Note: The exact prompts and output may vary depending on the implementation in `fibonacci.py`.*
-
-## 📂 Project Structure
-
-```text
-fibonacci-series/
-│
-├── fibonacci.py    # Python program to generate the Fibonacci series
-└── README.md       # Project documentation
-```
-
-## 📄 License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
-You may use, modify, and distribute this project according to the terms of the license. To apply the MIT License to your repository, add a `LICENSE` file containing the official MIT License text.
 
 ---
 
